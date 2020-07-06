@@ -6,3 +6,6 @@ Dependence:
 
 - NodeJS
 - Standard: lib para padronizar o código no modelo JS.
+- Husky
+- Lint Standard
+- Jest
