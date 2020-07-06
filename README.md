@@ -5,4 +5,4 @@ An NodeJS API developed in a clean architecture
 Dependence:
 
 - NodeJS
-- Standard
+- Standard: lib para padronizar o código no modelo JS.
