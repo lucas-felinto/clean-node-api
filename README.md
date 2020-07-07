@@ -2,7 +2,7 @@
 
 An NodeJS API developed in a clean architecture
 
-Dependence:
+Dependences:
 
 - NodeJS
 - Standard: lib para padronizar o código no modelo JS.
