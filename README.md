@@ -6,6 +6,6 @@ Dependences:
 
 - NodeJS
 - Standard: lib para padronizar o código no modelo JS.
-- Husky
-- Lint Standard
+- Husky: lib para fazer pré commits
+- Lint Staged: tentar fixar possíveis erros, roda os testes, se todos passarem, libera a staged area para ser commitada
 - Jest
